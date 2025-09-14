@@ -4,7 +4,7 @@ A simple calculator built with **HTML, CSS, and JavaScript**.
 Supports basic arithmetic operations.
 
 ## 🚀 Live Demo
-[Click here to use]([https://vedantsingh123.github.io/calculator-v2/])
+[Click here to use](https://vedantsingh123.github.io/calculator-v2/)
 
 ## 📂 Project Structure
 - `index.html` → main file  
